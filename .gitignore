@@ -12,5 +12,7 @@
 
 # raw data
 *.txt
+*.csv
+*.xlsx
 
 *.h5
