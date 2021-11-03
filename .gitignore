@@ -1,0 +1,16 @@
+# photos
+*.png
+*.gif
+
+# pdfs and word files
+*.pdf
+*.docx
+*.doc
+
+# notebooks
+*.ipynb
+
+# raw data
+*.txt
+
+*.h5
